@@ -15,7 +15,7 @@ REPO_LINK = "https://github.com/jagrit007/Telegram-CloneBot"
 
 @run_async
 def helpp(update, context):
-    sendMessage("မသိတာများရှိလျှင် ဂျပန်ဂတုံး  @moedyiu သို့ဆက်သွယ်ပါ။",
+    sendMessage("error တစုံတရာ ဖြစ်ပါက Movie Share ကိုလာမေးနိုင်ပါတယ်  @MovieShare01 သို့ဆက်သွယ်ပါ။",
     context.bot, update, 'Markdown')
     
 @run_async
